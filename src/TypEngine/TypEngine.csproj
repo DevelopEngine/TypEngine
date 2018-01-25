@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+        <PackageId>TypEngine</PackageId>
+        <Description>The TypEngine package provides a handful of simple extension methods to simplify .NET Type reflection code.</Description>
+        <Authors>achapman</Authors>
+        <Copyright>© Alistair Chapman 2017</Copyright>
+        <PackageTags>developengine;types;reflection;</PackageTags>
+        <RepositoryUrl>https://github.com/DevelopEngine/TypEngine</RepositoryUrl>
+        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+        <PackageLicenseUrl>https://raw.githubusercontent.com/DevelopEngine/TypEngine/master/LICENSE</PackageLicenseUrl>
+        <PackageProjectUrl>https://github.com/DevelopEngine/TypEngine</PackageProjectUrl>
+        <RootNamespace>TypEngine</RootNamespace>
+    </PropertyGroup>
+
+</Project>
